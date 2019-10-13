@@ -7,8 +7,8 @@ Push notifications module for ejabberd 19.09
 
 # I need to add the new sdk from firebase I Hope helps!!! 
 
-https://firebase.google.com/docs/admin/setup?hl=en
+firebse reference: https://firebase.google.com/docs/admin/setup?hl=en
 
+nodejs reference: https://www.npmjs.com/package/fcm-node
 
-
-Reference: https://github.com/proger/mod_pushoff
+Reference author : https://github.com/proger/mod_pushoff
